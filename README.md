@@ -24,8 +24,8 @@ Acest proiect reprezintă studiul performanței a 5 algoritmi de sortare fundame
 *   **L1/L2 Cache:** Quick Sort profită de localitatea referinței (date in-place), ceea ce îl face campionul performanței practice.
 
 ## 📂 Structura Proiectului
-*   `main.cpp`: Codul sursă complet în C++.
-*   `Documentatie.pdf`: Raportul detaliat generat în LaTeX.
+*   [main.cpp](main.cpp): Codul sursă complet în C++.
+*   [Documentatie.pdf](Documentatie.pdf): Raportul detaliat generat în LaTeX.
 
 ---
 **Autor:** Costin Anica  
