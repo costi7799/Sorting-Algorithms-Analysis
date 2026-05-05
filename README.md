@@ -3,11 +3,11 @@
 Acest proiect reprezintă studiul performanței a 5 algoritmi de sortare fundamentali, comparând rezultatele teoretice ($O(n^2)$ vs $O(n \log n)$) cu datele obținute experimental pe diverse tipuri de structuri de date.
 
 ## 🚀 Metode Implementate
-*   **Bubble Sort** ($O(n^2)$)
-*   **Selection Sort** ($O(n^2)$)
-*   **Insertion Sort** ($O(n^2)$)
-*   **Merge Sort** ($O(n \log n)$)
-*   **Quick Sort** ($O(n \log n)$)
+*   **Bubble Sort** $O(n^2)$
+*   **Selection Sort** $O(n^2)$
+*   **Insertion Sort** $O(n^2)$
+*   **Merge Sort** $O(n* \log(n))$
+*   **Quick Sort** $O(n* \log (n))$
 
 ## 📊 Rezultate Cheie (N=10.000)
 
